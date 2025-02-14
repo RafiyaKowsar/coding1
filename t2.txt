@@ -1,0 +1,4 @@
+this git commands 
+git status
+git branch
+git checkout
